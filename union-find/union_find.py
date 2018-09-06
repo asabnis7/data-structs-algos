@@ -1,5 +1,5 @@
 # Arjun Sabnis
-# Union Find Algorithm
+# Weighted Union Find with Path Compression Algorithm
 # Created on 9/6/2018
 
 class UnionFind(object):
